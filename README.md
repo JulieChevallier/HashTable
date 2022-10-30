@@ -46,7 +46,7 @@ commence par choisir une taille de tableau notée m, et une fonction h : U → [
 de hachage (nous verrons comment choisir h après). On définit alors T comme un tableau de m listes (cf
 Figure 1).
 
-![](ressources/f1.jpg)
+![](ressources/f1.png)
 
 Figure 1: Exemple d’une table de hachage avec résolution par chaînage pour m = 5. Cette table contient
 les éléments {17, 4, 525, 12, 43}. L’élément u sera rajouté dans la liste T[1].
